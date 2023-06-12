@@ -9,7 +9,7 @@ int main(int argc, char* argv[]) {
         cout << "Argumento " << i << ": " << argv[i] << endl;
       }
   
-    cout << "Hola" << endl;
+    cout << "Hola..." << endl;
 
     return 0;
 }
